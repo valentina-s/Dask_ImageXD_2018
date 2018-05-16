@@ -1,2 +1,5 @@
-pip install dask-ml
-pip install dask distributed
+
+
+dask-ml==0.4.1
+distributed==1.16.3
+graphviz==0.8.1
