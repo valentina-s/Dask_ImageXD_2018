@@ -16,6 +16,6 @@ conda install dask distributed -c conda-forge
 
 Azure Notebooks Setup:
 
-https://daskimagexd2018-vms16.notebooks.azure.com/
+https://notebooks.azure.com/vms16/libraries/Dask-ImageXD-2018
 
 Click clone and you can edit the notebook.
