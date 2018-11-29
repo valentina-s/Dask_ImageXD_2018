@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valentina-s/Dask_ImageXD_2018/master?filepath=Dask-Image-Tutorial-leaves-11-28-18.ipynb)
+
 ### Image Processing with Dask Tutorial
 
 #### ImageXD Workshop 2018
