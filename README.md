@@ -10,8 +10,9 @@ Local Setup:
 ```
 conda install -c conda-forge dask-ml
 conda install -c anaconda graphviz
-conda install scikit-image
-conda install dask distributed -c conda-forge
+conda install --yes scikit-image
+conda install --yes dask distributed -c conda-forge
+conda install --yes bokeh=0.12.7
 ```
 
 Azure Notebooks Setup:
