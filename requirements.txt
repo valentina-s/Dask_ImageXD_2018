@@ -4,4 +4,4 @@ graphviz==0.8.1
 tornado==4.5.2
 joblib
 ipyparallel
-
+bokeh=0.12.9
