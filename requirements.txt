@@ -2,3 +2,6 @@ dask-ml==0.4.1
 distributed==1.16.3
 graphviz==0.8.1
 tornado==4.5.2
+joblib
+ipyparallel
+
